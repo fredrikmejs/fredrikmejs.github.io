@@ -1,2 +1,0 @@
-# fredrikmejs.github.io
-test
